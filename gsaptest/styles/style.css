@@ -1,0 +1,18 @@
+*, ::after, ::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.boxcontainer {
+  margin-top: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.boxcontainer .box {
+  width: 150px;
+  height: 150px;
+  background-color: #000;
+}/*# sourceMappingURL=style.css.map */
